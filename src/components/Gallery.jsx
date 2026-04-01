@@ -3,7 +3,7 @@ import React from 'react';
 const Gallery = () => {
   const images = [
     {
-      src: "Spanduk.jpeg",
+      src: "Klien.jpeg",
       alt: "Blue surfboard resting on white sand beach"
     },
     {
@@ -11,7 +11,7 @@ const Gallery = () => {
       alt: "Aerial view of turquoise Bali ocean"
     },
     {
-           src: "Klien.jpeg",
+           src: "Kelapa.jpeg",
       alt: "Palm trees silhouette at tropical sunset"
     },
     {
